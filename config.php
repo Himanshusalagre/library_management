@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'localhost';
-	$dbUsername = 'root';
-	$dbPassword = '';
-	$dbDatabase = 'saide_db';
+	$dbServer = 'https://remotemysql.com';
+	$dbUsername = 'Q9r2dSdIYk';
+	$dbPassword = 'IsJXVg6AJF';
+	$dbDatabase = 'Q9r2dSdIYk';
 
 	$adminConfig = array(
 		'adminUsername' => "ronald",
